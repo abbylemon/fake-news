@@ -22,10 +22,10 @@ Questions to Answer:
 
 Datasets to be used:
 
-1. EPA AirNow API
-2. Census API
-3. OpenWeatherMap.org API
-4. PurpleAir API
+1. EPA AirNow API (named "epakey")
+2. Census API (named "censuskey")
+3. OpenWeatherMap.org API (named "wkey")
+4. PurpleAir API (no key woo!)
 
 Breakdown of Tasks:
 per question.
@@ -33,3 +33,4 @@ per question.
 1. Abby
 2. Alan
 3. Brandon
+
