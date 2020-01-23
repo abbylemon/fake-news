@@ -31,6 +31,8 @@ Questions to Answer:
 
 3. Do cities with similar population density have the same level of air pollution?
   Note: Do we want to look outside of MN for this question?
+  
+  plots to show:
   1. population density vs air quality for MN per county
   2. pick a population density, look for other similar countys with that desnity, then use those countys to get the PM2.5.
 
