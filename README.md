@@ -15,10 +15,24 @@ Questions to Answer:
   a. for EPA PM data
   b. for PurpleAir PM data
   
+  plots to show: 
+  1. gmaps of EPA vs PurpleAir PM2.5 at the same 'time' 
+  2. in MN per county do yearly PM2.5 vs yearly income
+  
+  
 2. Is yearly temperature and PM level coorelated? (EPA and OpenWeatherMap)
+
+  plots to show:
+  for MN
+  1. yearly PM2.5 vs yearly temp
+    a. 30 year span
+  2. seasonal PM2.5 vs seasonal temp --> maybe for one county
+    a. seasonal: Winter/Summer maybe add Spring/Fall
 
 3. Do cities with similar population density have the same level of air pollution?
   Note: Do we want to look outside of MN for this question?
+  1. population density vs air quality for MN per county
+  2. pick a population density, look for other similar countys with that desnity, then use those countys to get the PM2.5.
 
 Datasets to be used:
 
