@@ -1,5 +1,6 @@
 config.py
-
+censuskey.py
+epakey.py
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
