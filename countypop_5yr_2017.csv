@@ -1,0 +1,89 @@
+GEO_ID,NAME,B05012_001E,B05012_001M,B05012_002E,B05012_002M,B05012_003E,B05012_003M
+id,Geographic Area Name,Estimate!!Total,Margin of Error!!Total,Estimate!!Total!!Native,Margin of Error!!Total!!Native,Estimate!!Total!!Foreign-Born,Margin of Error!!Total!!Foreign-Born
+0500000US27001,"Aitkin County, Minnesota",15841,*****,15664,40,177,40
+0500000US27003,"Anoka County, Minnesota",344861,*****,317453,1069,27408,1069
+0500000US27005,"Becker County, Minnesota",33552,*****,32995,232,557,233
+0500000US27007,"Beltrami County, Minnesota",45847,*****,45057,152,790,152
+0500000US27009,"Benton County, Minnesota",39360,*****,38083,213,1277,213
+0500000US27011,"Big Stone County, Minnesota",5039,*****,4970,27,69,27
+0500000US27013,"Blue Earth County, Minnesota",65767,*****,62865,320,2902,320
+0500000US27015,"Brown County, Minnesota",25243,*****,24698,140,545,140
+0500000US27017,"Carlton County, Minnesota",35408,*****,35002,83,406,83
+0500000US27019,"Carver County, Minnesota",98799,*****,94097,507,4702,507
+0500000US27021,"Cass County, Minnesota",28810,*****,28500,58,310,58
+0500000US27023,"Chippewa County, Minnesota",12040,*****,11519,76,521,76
+0500000US27025,"Chisago County, Minnesota",54297,*****,53235,269,1062,269
+0500000US27027,"Clay County, Minnesota",62040,*****,59440,385,2600,385
+0500000US27029,"Clearwater County, Minnesota",8824,*****,8727,26,97,26
+0500000US27031,"Cook County, Minnesota",5270,*****,4966,89,304,89
+0500000US27033,"Cottonwood County, Minnesota",11437,*****,10847,88,590,88
+0500000US27035,"Crow Wing County, Minnesota",63505,*****,62558,154,947,154
+0500000US27037,"Dakota County, Minnesota",414655,*****,375893,1141,38762,1141
+0500000US27039,"Dodge County, Minnesota",20485,*****,20065,77,420,77
+0500000US27041,"Douglas County, Minnesota",36891,*****,36511,103,380,103
+0500000US27043,"Faribault County, Minnesota",13966,*****,13649,81,317,81
+0500000US27045,"Fillmore County, Minnesota",20825,*****,20513,66,312,66
+0500000US27047,"Freeborn County, Minnesota",30619,*****,29127,238,1492,238
+0500000US27049,"Goodhue County, Minnesota",46138,*****,44834,191,1304,191
+0500000US27051,"Grant County, Minnesota",5923,*****,5853,37,70,37
+0500000US27053,"Hennepin County, Minnesota",1224763,*****,1054835,2985,169928,2985
+0500000US27055,"Houston County, Minnesota",18709,*****,18509,44,200,44
+0500000US27057,"Hubbard County, Minnesota",20743,*****,20501,52,242,52
+0500000US27059,"Isanti County, Minnesota",38584,*****,38004,129,580,129
+0500000US27061,"Itasca County, Minnesota",45237,*****,44780,80,457,80
+0500000US27063,"Jackson County, Minnesota",10104,*****,9849,62,255,62
+0500000US27065,"Kanabec County, Minnesota",15948,*****,15798,22,150,22
+0500000US27067,"Kandiyohi County, Minnesota",42577,*****,39069,347,3508,347
+0500000US27069,"Kittson County, Minnesota",4384,*****,4271,59,113,59
+0500000US27071,"Koochiching County, Minnesota",12776,*****,12018,167,758,167
+0500000US27073,"Lac qui Parle County, Minnesota",6840,*****,6655,62,185,62
+0500000US27075,"Lake County, Minnesota",10578,*****,10333,79,245,79
+0500000US27077,"Lake of the Woods County, Minnesota",3841,*****,3796,37,45,37
+0500000US27079,"Le Sueur County, Minnesota",27810,*****,26986,122,824,122
+0500000US27081,"Lincoln County, Minnesota",5724,*****,5684,19,40,19
+0500000US27083,"Lyon County, Minnesota",25789,*****,24149,246,1640,246
+0500000US27085,"McLeod County, Minnesota",35816,*****,34782,200,1034,200
+0500000US27087,"Mahnomen County, Minnesota",5500,*****,5459,13,41,13
+0500000US27089,"Marshall County, Minnesota",9397,*****,9233,36,164,36
+0500000US27091,"Martin County, Minnesota",20084,*****,19740,113,344,113
+0500000US27093,"Meeker County, Minnesota",23105,*****,22571,137,534,137
+0500000US27095,"Mille Lacs County, Minnesota",25635,*****,25250,90,385,90
+0500000US27097,"Morrison County, Minnesota",32880,*****,32503,66,377,66
+0500000US27099,"Mower County, Minnesota",39386,*****,35938,353,3448,353
+0500000US27101,"Murray County, Minnesota",8394,*****,8168,42,226,42
+0500000US27103,"Nicollet County, Minnesota",33477,*****,31968,266,1509,266
+0500000US27105,"Nobles County, Minnesota",21854,*****,17502,277,4352,277
+0500000US27107,"Norman County, Minnesota",6589,*****,6463,40,126,40
+0500000US27109,"Olmsted County, Minnesota",151685,*****,135335,907,16350,907
+0500000US27111,"Otter Tail County, Minnesota",57790,*****,56281,232,1509,232
+0500000US27113,"Pennington County, Minnesota",14197,*****,13900,104,297,104
+0500000US27115,"Pine County, Minnesota",29057,*****,28605,81,452,81
+0500000US27117,"Pipestone County, Minnesota",9229,*****,8669,214,560,214
+0500000US27119,"Polk County, Minnesota",31564,*****,30420,233,1144,233
+0500000US27121,"Pope County, Minnesota",10932,*****,10818,35,114,35
+0500000US27123,"Ramsey County, Minnesota",537893,*****,454140,2076,83753,2076
+0500000US27125,"Red Lake County, Minnesota",4017,*****,3956,25,61,25
+0500000US27127,"Redwood County, Minnesota",15430,*****,15059,61,371,61
+0500000US27129,"Renville County, Minnesota",14798,*****,14375,72,423,72
+0500000US27131,"Rice County, Minnesota",65251,*****,60402,373,4849,373
+0500000US27133,"Rock County, Minnesota",9433,*****,9257,61,176,61
+0500000US27135,"Roseau County, Minnesota",15537,*****,14963,83,574,83
+0500000US27137,"St. Louis County, Minnesota",200294,*****,195478,365,4816,365
+0500000US27139,"Scott County, Minnesota",141463,*****,129535,688,11928,688
+0500000US27141,"Sherburne County, Minnesota",92024,*****,89317,470,2707,470
+0500000US27143,"Sibley County, Minnesota",14888,*****,14139,82,749,82
+0500000US27145,"Stearns County, Minnesota",155300,*****,145604,1063,9696,1063
+0500000US27147,"Steele County, Minnesota",36612,*****,35296,237,1316,237
+0500000US27149,"Stevens County, Minnesota",9759,*****,9298,106,461,106
+0500000US27151,"Swift County, Minnesota",9448,*****,9256,63,192,63
+0500000US27153,"Todd County, Minnesota",24423,*****,23645,110,778,110
+0500000US27155,"Traverse County, Minnesota",3357,*****,3305,22,52,22
+0500000US27157,"Wabasha County, Minnesota",21490,*****,21176,70,314,70
+0500000US27159,"Wadena County, Minnesota",13626,*****,13518,43,108,43
+0500000US27161,"Waseca County, Minnesota",18898,*****,18201,129,697,129
+0500000US27163,"Washington County, Minnesota",250979,*****,234154,694,16825,694
+0500000US27165,"Watonwan County, Minnesota",10936,*****,9605,198,1331,198
+0500000US27167,"Wilkin County, Minnesota",6398,*****,6355,27,43,27
+0500000US27169,"Winona County, Minnesota",50992,*****,49291,249,1701,249
+0500000US27171,"Wright County, Minnesota",131130,*****,127281,483,3849,483
+0500000US27173,"Yellow Medicine County, Minnesota",9930,*****,9760,44,170,44
